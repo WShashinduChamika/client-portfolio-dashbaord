@@ -49,12 +49,6 @@ export default function DashboardHeader({
           <span className="hidden text-xs font-medium text-foreground sm:block">
             Admin
           </span>
-          <Badge
-            variant="secondary"
-            className="hidden h-4 px-1.5 text-[10px] sm:flex"
-          >
-            Admin
-          </Badge>
         </div>
       </div>
     </header>
